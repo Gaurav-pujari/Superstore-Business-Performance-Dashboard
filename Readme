@@ -1,0 +1,71 @@
+
+📊 Superstore Business Performance Dashboard
+📌 Project Overview
+
+This project focuses on analyzing Superstore Sales data to gain actionable business insights through an interactive dashboard. The dashboard helps stakeholders monitor sales performance, profitability, and trends across different regions, categories, and time periods.
+
+🎯 Objectives
+
+Analyze sales, profit, orders, and quantity to understand overall business performance
+
+Identify top-performing regions, categories, and sub-categories
+
+Track sales and profit trends over time
+
+Enable data-driven decision-making through interactive visualizations
+
+🛠 Tools & Technologies
+
+Power BI (or Tableau – update if needed)
+
+Superstore Sales Dataset
+
+Data modeling & visualization techniques
+
+DAX for calculated measures (if Power BI)
+
+📈 Key Features
+
+Interactive KPIs for Total Sales, Profit, Quantity, and Orders
+
+Dynamic filters for Region, Category, Segment, and Date
+
+Trend analysis using line and bar charts
+
+Clean, business-friendly dashboard layout
+
+🔍 Insights Generated
+
+Identified high-revenue and high-profit regions
+
+Highlighted top and underperforming product categories
+
+Analyzed monthly and yearly sales trends to support strategic planning
+
+📂 Dataset
+
+Superstore Sales Dataset (commonly used for BI and analytics projects)
+
+Includes fields such as Order Date, Region, Category, Sales, Profit, and Quantity
+
+🚀 How to Use
+
+Download the .pbix / .twbx file from this repository
+
+Open it using Tableau Desktop
+
+Use filters and slicers to explore insights interactively
+
+📌 Project Use Case
+
+This dashboard is designed for:
+
+Business Analysts
+
+Sales Managers
+
+Decision-makers looking for quick performance insights
+
+👤 Author
+
+Gaurav Pujari
